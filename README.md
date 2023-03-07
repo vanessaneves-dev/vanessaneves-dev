@@ -2,17 +2,19 @@
 
  Olá, eu sou a Vanessa Neves!👩‍🦰 
 
-- 👩‍💻 Estudando desenvolvimento Front-end
-- 🎓 Bacharel em Administração de Empresas
+- 👩‍💻 Estudando desenvolvimento Full Stack - Node.js and React
+- 🎓 Pós Graduada em Desenvolvimento Front-end
 - 🎓 Bacharel em Engenharia Civil
+- 🎓 Bacharel em Administração de Empresas
 - 🔁 Em transição de carreira para Tecnologia
 
 ##
  Hello, I'm Vanessa Neves!👩‍🦰 
 
-- 👩‍💻 Studying Front-end Development
-- 🎓 Bachelor of Business Administration
+- 👩‍💻 Studying Full Stack development - Node.js and React
+- 🎓 Graduated in Front-end Development
 - 🎓 Bachelor of Civil Engineering
+- 🎓 Bachelor of Business Administration
 - 🔁 In career transition to Technology
 </div>
 
