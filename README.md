@@ -2,7 +2,7 @@
 
  Olá, eu sou a Vanessa Neves!👩‍🦰 
 
-- 👩‍💻 Estudando desenvolvimento Full Stack - Node.js and React
+- 👩‍💻 Developer Full Stack - Node.js and React
 - 🎓 Pós Graduada em Desenvolvimento Front-end
 - 🎓 Bacharel em Engenharia Civil
 - 🔁 Em transição de carreira para Tecnologia
@@ -10,7 +10,7 @@
 ##
  Hello, I'm Vanessa Neves!👩‍🦰 
 
-- 👩‍💻 Studying Full Stack development - Node.js and React
+- 👩‍💻 Full Stack developer - Node.js and React
 - 🎓 Graduated in Front-end Development
 - 🎓 Bachelor of Civil Engineering
 - 🔁 In career transition to Technology
@@ -39,11 +39,17 @@
   <div style="display: inline_block">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />     
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />   
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />     
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg "width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg "width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>       
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"width="40" height="40" />          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg "width="40" height="40" />  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg "width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg "width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg "width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg "width="40" height="40" />
        </div>
   
 <img align="right" src="https://media.discordapp.net/attachments/1019327557184798753/1019329729737801768/6t9slj.gif" width="150" height="150"/> 
