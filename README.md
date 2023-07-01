@@ -41,7 +41,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />     
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />     
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg "width="40" height="40" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-plain.svg "width="40" height="40" />
+            <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-plain.svg](https://icongr.am/devicon/express-original.svg?size=136&color=currentColor) "width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>       
