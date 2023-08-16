@@ -18,18 +18,12 @@
 
 ##
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vanessaneves-dev&show_icons=true&theme=material-palenight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vanessaneves-dev&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=vanessaneves-dev&show_icons=true" />
-</picture>
-
+<div align="center">
+  <a href="https://github.com/vanessaneves-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessaneves-dev&show_icons=true&theme=material-palenight"
+  media="(prefers-color-scheme: dark)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaneves-dev&layout=compact&langs_count=7&theme=material-palenight"/>
+</div>
 
 ##
 
@@ -60,6 +54,7 @@
   <h3> Como entrar em contato comigo:</h3>
   <h3> How to reach me:</h3>
   <div style="display: inline_block">    
-<a href="https://www.linkedin.com/in/vanessa-neves-ba793624b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/vanessa-neves-ba793624b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   
  </div>
   
