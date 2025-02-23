@@ -2,14 +2,14 @@
 
  Olá, eu sou a Vanessa Neves!👩‍🦰 
 
-- 👩‍💻 Developer Full Stack - Java - Node.js and React - Angular
+- 👩‍💻 Developer Full Stack - Java - Node.js - React - Angular
 - 🎓 Pós Graduada em Desenvolvimento Front-end
 - 🎓 Bacharel em Engenharia Civil
 
 ##
  Hello, I'm Vanessa Neves!👩‍🦰 
 
-- 👩‍💻 Full Stack developer - Java - Node.js and React - Angular
+- 👩‍💻 Full Stack developer - Java - Node.js - React - Angular
 - 🎓 Graduated in Front-end Development
 - 🎓 Bachelor of Civil Engineering
 
