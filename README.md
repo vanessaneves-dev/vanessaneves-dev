@@ -52,7 +52,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
        </div>
   
-<img align="right" src="https://media.discordapp.net/attachments/1019327557184798753/1019329729737801768/6t9slj.gif" width="150" height="150"/> 
+
   
   ##
   
